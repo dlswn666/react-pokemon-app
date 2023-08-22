@@ -10,7 +10,6 @@ import { Balance } from '../../assets/Balance';
 import { Vector } from '../../assets/Vector';
 import Type from '../../components/Type';
 import BaseStat from '../../components/BaseStat';
-import DamageRelations from '../../components/damageRelations';
 import DamageModal from '../../components/DamageModal';
 
 const DetailPage = () => {
